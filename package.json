@@ -1,0 +1,23 @@
+{
+    "name": "language-kak",
+    "author": "Frank Lenormand",
+    "maintainers": [{
+        "name":  "Frank Lenormand",
+        "email": "lenormf@gmail.com",
+        "url":   "https://github.com/lenormf"
+    }],
+    "description": "Kakoune Script language support for Atom",
+    "keywords": ["Kakoune", "Kakoune Script", "Kak"],
+    "version": "0.0.0",
+    "engines": {
+        "atom": ">0.50.0",
+        "node": ">=13.2.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kakoune-editor/language-kak.git"
+    },
+    "bugs": {
+        "url": "https://github.com/kakoune-editor/language-kak/issues"
+    }
+}
